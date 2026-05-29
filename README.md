@@ -1,7 +1,7 @@
 # Arthur R. C. McCray
 
 I’m a postdoctoral researcher at Stanford working on **machine learning for computational imaging and inverse problems** in electron microscopy, including 4DSTEM, ptychography, tomography, and Lorentz TEM.  
-My main interestas the moment include **self-supervised learning**, **deep priors**, physics-informed reconstruction, and open-source scientific software.
+My main interestas the moment include **self-supervised learning**, **deep priors**, physics-informed reconstruction methods, and open-source scientific software.
 
 ## Focus areas
 - ML for inverse problems in (S)TEM: reconstruction, phase retrieval, robust and quantitative analysis on real-world data  
